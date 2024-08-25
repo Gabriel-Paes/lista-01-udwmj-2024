@@ -1,22 +1,28 @@
 <!DOCTYPE html>
+<html lang="pt-br"></html>
 <html>
   <head>
-    <title>Waiting Room...</title>
-    <link rel="stylesheet" href="css/style.css"
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sala de espera...</title>
+    <link rel="stylesheet" href="/css/style.css" />
   </head>
   <body>
     <main>
       <div class="box">
         <h1>Fila de Espera</h1>
-        <p>
-          Você está na fila para comprar ingresso(s) para
-          <strong>Star Wars - The Empire Strikes Back</strong>
-        </p>
-        <p>sua posição na fila é: 2</p>
+        <p>Você está na fila para comprar ingresso(s) para</p>
+        <h3>Star Wars - The Empire Strikes Back</h3>
+        <img
+          id="poster"
+          src="/assets/StarWars-TheEmpireStrikesBack.webp"
+          alt="Star Wars - The Empire Strikes Back"
+        />
+        <p>sua posição na fila é: <span id="position">0</span></p>
         <p id="timer">00:00:00</p>
       </div>
-      <div id="upcomingSessions"></div>
+      <div id="upcoming-sessions"></div>
     </main>
   </body>
-  <script defer src="index.js"></script>
+  <script defer src="/js/index.js"></script>
 </html>
