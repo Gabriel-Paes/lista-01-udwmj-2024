@@ -20,3 +20,7 @@ Um bônus que eu desenvolvi foi a recomendação para uma sessão mais vazia, as
 Por enquando não tem muito depois dessa tela, apenas um informativo para entendermos o fluxo da usabilidade das telas e opções anteriores.
 
 ![Mapa da sala](/assets/image3.png)
+
+## Formulário PHP
+
+Esse código é um simples exemplo de código php, nele você pode informar uma palavra e mesmo que tenha poucas posições podemos pensar em uma que o código ira calcular qual a Letra na posição informada.
