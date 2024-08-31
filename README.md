@@ -24,3 +24,9 @@ Por enquando não tem muito depois dessa tela, apenas um informativo para entend
 ## Formulário PHP
 
 Esse código é um simples exemplo de código php, nele você pode informar uma palavra e mesmo que tenha poucas posições podemos pensar em uma que o código ira calcular qual a Letra na posição informada.
+
+![Formulário](/assets/image4.png)
+
+No exemplo a palavra **Programação** e a posição **46** temos como resultado a letra **m**
+
+![Formulário respondido](/assets/image5.png)
